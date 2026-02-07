@@ -1,8 +1,10 @@
 # Spotify-Financial-Perfromance-Tracker-Dashboard
 
 ## 🔎 Project Summary
+---
 This Tableau dashboard analyzes **Spotify’s financial and user performance over time**, focusing on revenue growth, profitability, costs, and monetization strategies.  
 The project demonstrates my ability to analyze **financial metrics**, track **business growth**, and communicate insights through **clear, executive-ready visualizations**.
+
 ---
 
 <img width="963" height="614" alt="image" src="https://github.com/user-attachments/assets/3f57ef7c-0e6b-4b4c-a9f1-09df1c2599bc" />
